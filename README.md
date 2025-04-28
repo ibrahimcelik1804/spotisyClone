@@ -22,5 +22,5 @@ Bu proje, **React Native CLI** kullanılarak geliştirilmiş bir **Spotify** uyg
 
 ## 🎨 Proje Görseli
 <!-- Buraya proje görselini ekleyebilirsin -->
-![Spotify Clone Preview](Gorsel.gif)
+![Spotify Clone Preview](assets/images/Gorsel.gif)
 

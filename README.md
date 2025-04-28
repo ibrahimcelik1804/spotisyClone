@@ -20,7 +20,7 @@ Bu proje, **React Native CLI** kullanılarak geliştirilmiş bir **Spotify** uyg
 
 
 ## 🎨 Proje Görseli
-<!-- Buraya proje görselini ekleyebilirsin -->
-<img src="https://github.dev/ibrahimcelik1804/spotisyClone/blob/main/src/assets/images/Gorsel.gif" alt="Proje Görseli" width="600"/>
+<!-- Buraya proje görselini ekleyebilirsin -->ß
+<img src="https://github.com/ibrahimcelik1804/spotisyClone/blob/main/src/assets/images/Gorsel.gif" alt="Proje Görseli" width="600"/>
 
 

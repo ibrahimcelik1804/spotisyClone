@@ -18,9 +18,9 @@ Bu proje, **React Native CLI** kullanılarak geliştirilmiş bir **Spotify** uyg
 - **React Native SVG** – SVG formatındaki ikonlar ve grafikler için kullanıldı.
 - **Millify** – Sayıları kısaltmak ve kullanıcıya sade göstermek için kullanıldı.
 
-## ⚙️ Kurulum ve Çalıştırma
 
 ## 🎨 Proje Görseli
 <!-- Buraya proje görselini ekleyebilirsin -->
-![Spotify Clone Preview](assets/images/Gorsel.gif)
+<img src="https://github.com/ibrahimcelik1804/AmazonClone/blob/main/src/assets/gorsel%C3%8F.gif" alt="Proje Görseli" width="600"/>
+
 
